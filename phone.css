@@ -1,0 +1,60 @@
+.f-45 {
+    font-size: 18px;
+}
+
+
+.navbar-brand{
+    height: 44px;
+    
+}
+.form-control {
+
+    width: 100%;
+}
+.container {
+    padding: 8px 58px;
+}
+    .pb-0 {
+       
+        font-size: 11px;
+    }
+   
+    
+   
+    .col-12 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+  .heading-2{
+    font-size: 16px;
+  }
+   
+    .text-white{
+        font-size: 19px;
+    }
+    .col-6 {
+    
+        width: 97%;
+    }
+    .heading{
+        text-align: center;
+    }
+    .map img {
+        height: 212px;
+        width: 212px;
+    }
+    .d-block{
+        height: 873px;
+        width: 566px;
+    }
+   .me-2{
+    height: 16px;
+   }
+   /* .box{
+    height: 203px;
+    width: 156px;
+   } */
+
+        
+        
+    
